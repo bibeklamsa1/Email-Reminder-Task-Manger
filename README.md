@@ -28,7 +28,8 @@
 
 <p> Output email looks like this:
 
-![image](https://github.com/user-attachments/assets/50cc17c9-02b2-48ea-8386-52f0109322cb)
+![image](https://github.com/user-attachments/assets/a01ec5b9-adbe-458c-9330-3d4feaa88edf)
+
 
 
 </p>
