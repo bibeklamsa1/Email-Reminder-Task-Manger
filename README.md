@@ -34,3 +34,14 @@
 </p>
 
 <p> I used Brave account which gives 300 mail per day as free plan for the automation</p>
+
+
+<p>
+
+For daily mail I scheduled it on task schedular and each day once the mail is sent we have on log message in the _internal directory. 
+<br>
+If got issue or not ran on particular day we can track it via the log.
+
+
+ 
+</p>
