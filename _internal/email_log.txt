@@ -1,0 +1,8 @@
+2025-05-23 14:52:43.421086 - Email sent to bibeklamsal387@gmail.com for 5 car(s) inspection reminder
+2025-05-23 14:54:14.077029 - Email sent to bibeklamsal387@gmail.com for 5 car(s) inspection reminder
+2025-05-23 14:55:36.303200 - Database error: no such table: cars
+2025-05-23 14:57:19.893681 - Email sent to bibeklamsal387@gmail.com for 5 car(s) inspection reminder
+2025-05-23 14:57:33.813378 - Email sent to bibeklamsal387@gmail.com for 5 car(s) inspection reminder
+2025-05-23 14:58:07.045472 - Email sent to bibeklamsal387@gmail.com for 5 car(s) inspection reminder
+2025-05-23 14:58:29.036219 - Email sent to bibeklamsal387@gmail.com for 5 car(s) inspection reminder
+2025-05-23 14:59:21.721740 - Email sent to bibeklamsal387@gmail.com for 5 car(s) inspection reminder

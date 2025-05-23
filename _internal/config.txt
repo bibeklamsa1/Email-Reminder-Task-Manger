@@ -1,0 +1,8 @@
+[DEFAULT]
+DATABASE_PATH = C:\Users\User\OneDrive\Desktop\PythonPro\Dealer Managment\car_dealer.db
+SMTP_SERVER = smtp-relay.brevo.com
+SMTP_PORT = 587
+SMTP_USER = private@smtp-brevo.com
+SMTP_PASS = private
+FROM_EMAIL = fromwhere@go.com
+TO_EMAIL = towhom@go.com
